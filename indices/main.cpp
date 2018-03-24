@@ -15,7 +15,7 @@
 // Because nums[0] + nums[1] = 2 + 7 = 9,
 // return [0, 1].
 
-// The solution is O(n^2)
+// The solution address O(n^2)
 #include <iostream>
 #include <vector>
 using namespace std;
